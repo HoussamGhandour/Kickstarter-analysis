@@ -58,7 +58,7 @@ Below is a list of limitations for the analysis and dataset.
 Some of the recommendations for additional analysis were discussed in the aforementioned sections to provide Louise with more reliable data-driven conclusions. The recommendations are also summarized below for quick reference.
 
 1. Analyze percentage of successful projects based on launch date
-2. Consider analyzing the pledged money based on launch date instead of 
+2. Consider analyzing the pledged money based on launch date instead of successful and failed outcomes
 2. Study effect of pledged percentage of goal based on goal ranges to have a better representation of outcomes
 3. Consider statistical analysis to study sensitivity of setting launch month and goal on the pledged amounts
 
