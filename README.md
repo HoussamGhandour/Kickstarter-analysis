@@ -30,7 +30,7 @@ This section presents the results based on launch date and goals.
 ### 3.1 Analysis of Outcomes Based on Launch Date
 The line chart below shows that theater projects have the largest number of successful projects (111 projects) when the launch date was May. It should also be noted that the largest number of failed projects (52 projects) was when the launch date was May. More importantly, the gap which is the difference between the successful and failed projects, is largest when the launch date was in May (111-52=59). It is recommended to use percentage of successful and failed projects instead of raw numbers to have a clearer indication of the chance of success.  
 
-![Outcomes based on Launch Date](https://github.com/HoussamGhandour/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
+![Outcomes based on Launch Date](https://github.com/HoussamGhandour/Kickstarter-analysis/blob/master/resources/Theater_Outcomes_vs_Launch.png)
 
 **Conclusions**  
 1. There is an almost upward trend of successful projects from December until it peaks in May. There is a downward trend from May until the rest of the year. This suggests that summer months especially May have higher number of successful projects.
@@ -39,7 +39,7 @@ The line chart below shows that theater projects have the largest number of succ
 ### 3.2 Analysis of Outcomes Based on Goals
 The line chart below shows an alternating pattern between successful and failed play projects based on the goal ranges. It should be noted that success rate is significantly higher than failed rate for projects with a goal of 5000$ or less. Also, the goal range between 35,000 and 40,000 showed relatively high chance of success compared to the rest of ranges. The alternating pattern makes it hard to identify possible explanation. It is recommended to perform additional analysis to calculate and visualize the pledged percentage of the goal for these ranges as it might highlight better trends.
 
-![Outcomes based on Goals](https://github.com/HoussamGhandour/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
+![Outcomes based on Goals](https://github.com/HoussamGhandour/Kickstarter-analysis/blob/master/resources/Outcomes_vs_Goals.png)
 
 **Conclusions**  
 1. The pattern seems to be alternating and it is difficult to draw conclusions from it. It is possible that some of the failed projects barely missed the goal, therefore, it is recommended to perform an additional analysis to show the percentage of pledged to the goal. 
